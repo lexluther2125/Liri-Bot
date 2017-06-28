@@ -1,0 +1,22 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "LIRI is a Language Interpretation and Recognition Interface",
+  "main": "liri.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexluther2125/Liri-Bot.git"
+  },
+  "author": "Lexi Majoue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexluther2125/Liri-Bot/issues"
+  },
+  "homepage": "https://github.com/lexluther2125/Liri-Bot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.5"
+  }
+}
