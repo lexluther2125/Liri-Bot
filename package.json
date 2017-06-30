@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/lexluther2125/Liri-Bot#readme",
   "dependencies": {
-    "node-spotify-api": "^1.0.5"
-  }
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
 }
