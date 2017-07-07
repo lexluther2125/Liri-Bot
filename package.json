@@ -1,8 +1,16 @@
 {
   "name": "liri-bot",
   "version": "1.0.0",
-  "description": "LIRI is a Language Interpretation and Recognition Interface",
+  "description": "LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.",
   "main": "liri.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.5",
+    "omdb": "^0.8.0",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "test"
   },
@@ -15,10 +23,5 @@
   "bugs": {
     "url": "https://github.com/lexluther2125/Liri-Bot/issues"
   },
-  "homepage": "https://github.com/lexluther2125/Liri-Bot#readme",
-  "dependencies": {
-    "request": "^2.81.0",
-    "spotify": "^0.3.0",
-    "twitter": "^1.7.1"
-  },
+  "homepage": "https://github.com/lexluther2125/Liri-Bot#readme"
 }
