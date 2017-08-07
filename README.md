@@ -8,7 +8,7 @@ Fork the project and in Terminal, navigate to Liri-Bot folder.
 
 Typing the following into the command line will yield different results:
 
-'node liri.js my-tweets'
-'node liri.js spotify-this-song'
-'node liri.js movie-this'
-'node liri.js do-what-it-says'
+1. 'node liri.js my-tweets'
+2. 'node liri.js spotify-this-song'
+3. 'node liri.js movie-this'
+4. 'node liri.js do-what-it-says'
